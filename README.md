@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hola, soy Toni Montenegro 👋
 
-<!--
-**ToniMontenegro/ToniMontenegro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy Senior Product Lead con más de 20 años de experiencia escalando productos y liderando plataformas tecnológicas para millones de usuarios en múltiples países. Mi enfoque no está en la última moda de código, sino en **gestionar la complejidad** y **construir fosos estructurales (moats)** a través de arquitectura de datos, plataformas escalables y sistemas internos fiables.
 
-Here are some ideas to get you started:
+> *"Escalar no es crecer. Es construir sistemas que funcionan cuando no estás mirando."*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🛠️ Mi enfoque actual:
+- 🏗️ **Plataformas Internas (PaaS / IDP):** Arquitectura de facturación, sistemas de autenticación y HRMS.
+- 📉 **Product Due Diligence:** Ayudando a VCs y founders a saber si un producto es genuinamente sólido antes de firmar.
+- 🧠 **Arquitectura del deseo:** Investigando y escribiendo sobre la responsabilidad y el deseo en la era digital (autor del libro *Arquitectura del deseo*).
+
+#### 📊 Mis áreas de impacto:
+`Product Architecture` `UGC Engines` `ML Image Moderation` `SaaS / B2B` `Legaltech` `Cloud Infrastructure` `Data-First Strategy`
+
+---
+
+### 🌐 Conecta conmigo
+- 💼 **LinkedIn:** [Tu LinkedIn]
+- 🌍 **Web personal:** [tonimontenegro.com](https://tonimontenegro.com/)
