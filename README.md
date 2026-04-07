@@ -1,19 +1,19 @@
-# Hola, soy Toni Montenegro 👋
+# Hi, I'm Toni Montenegro 👋
 
-Soy Senior Product Lead con más de 20 años de experiencia escalando productos y liderando plataformas tecnológicas para millones de usuarios en múltiples países. Mi enfoque no está en la última moda de código, sino en **gestionar la complejidad** y **construir fosos estructurales (moats)** a través de arquitectura de datos, plataformas escalables y sistemas internos fiables.
+I am a Senior Product Lead with over 20 years of experience scaling products and leading tech platforms for millions of users across multiple countries. My focus isn't on the latest coding trends, but on **managing complexity** and **building structural moats** through data architecture, scalable platforms, and reliable internal systems.
 
-> *"Escalar no es crecer. Es construir sistemas que funcionan cuando no estás mirando."*
+> *"Scaling is not growing. It is building systems that work when you are not watching."*
 
-#### 🛠️ Mi enfoque actual:
-- 🏗️ **Plataformas Internas (PaaS / IDP):** Arquitectura de facturación, sistemas de autenticación y HRMS.
-- 📉 **Product Due Diligence:** Ayudando a VCs y founders a saber si un producto es genuinamente sólido antes de firmar.
-- 🧠 **Arquitectura del deseo:** Investigando y escribiendo sobre la responsabilidad y el deseo en la era digital (autor del libro *Arquitectura del deseo*).
+#### 🛠️ My current focus:
+- 🏗️ **Internal Platforms (PaaS / IDP):** Billing architecture, authentication systems, and HRMS.
+- 📉 **Product Due Diligence:** Helping VCs and founders know if a product is genuinely solid before signing.
+- 🧠 **Architecture of Desire:** Researching and writing about product, desire, and responsibility in the digital age (author of the book *Arquitectura del deseo*).
 
-#### 📊 Mis áreas de impacto:
+#### 📊 My areas of impact:
 `Product Architecture` `UGC Engines` `ML Image Moderation` `SaaS / B2B` `Legaltech` `Cloud Infrastructure` `Data-First Strategy`
 
 ---
 
-### 🌐 Conecta conmigo
-- 💼 **LinkedIn:** [Tu LinkedIn]
-- 🌍 **Web personal:** [tonimontenegro.com](https://tonimontenegro.com/)
+### 🌐 Connect with me
+- 💼 **LinkedIn:** [Linkedin.com/in/tonimontenegro/](https://www.linkedin.com/in/tonimontenegro/)
+- 🌍 **Personal Website:** [tonimontenegro.com](https://tonimontenegro.com/)
